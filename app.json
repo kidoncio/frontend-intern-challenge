@@ -1,0 +1,18 @@
+{
+  "name": "frontend-intern-challenge",
+  "scripts": {
+    "postdeploy": "project"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
